@@ -1,11 +1,8 @@
 class calc
 {
   /* Multiplication */
-  /* Multiplication */
   int multiply(int a, int b)
-    int c = a*b;
-
-    return c;
+  {
     int c = a*b;
 
     return c;
