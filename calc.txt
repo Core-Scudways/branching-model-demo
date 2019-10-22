@@ -5,6 +5,10 @@ class calc
   {
     int c = a*b;
 
+
+  int add(int a, int b)
+  {
+    int c = a+b; 
     return c;
   }
 }
